@@ -1,6 +1,6 @@
 <template>
 	<section>
-		<input class="w-full mt-6 p-3 rounded-lg" />
+		<input id="search" class="w-full mt-6 p-3 rounded-lg" />
 
     <pre class="bg-orange-500/20 mt-8 text-xs p-6">{
   "name": "Luke Skywalker",
