@@ -1,10 +1,10 @@
 # Test Leetchi Front
 
-Bonjour brave chevalier jedi.
+Bonjour brave chevalier Jedi.
 
 Bienvenue sur le test technique front-end developer de Leetchi :)
 
-Votre mission sera composer en 3 objectifs
+Votre mission sera composée en 3 objectifs
 
 
 ### Objectif #1 (CSS)
@@ -25,12 +25,12 @@ exemple de design attendu: ![](https://raw.githubusercontent.com/Leetchi-Front-E
 
 à l'aide de l'api [swapi.dev](https://swapi.dev/), utiliser l'input `#search` afin de créer un champ de recherche affichant une liste de personnages, ou un message "Aucun résultat trouvé pour "XXX" (XXX étant la valeur de la recherche). L'utilisateur doit être capable d'utiliser la touche **enter** déclencher une recherche.
 
-La liste de résultats doit s'afficher, chaque item doit être en rendu avec le composant que vous avez créer pendant l'objectif 1
+La liste de résultats doit s'afficher, chaque item doit être en rendu avec le composant que vous avez créé pendant l'objectif 1
 
 
 ### Obectif 3 (JS/TS - PAGINATION)
 
-Certaines recherches ont un grande nombre de résulats qui nécessite d'implémenter une pagination.
+Certaines recherches ont un grand nombre de résultats qui nécessite d'implémenter une pagination.
 exemple de query: `"a"`
 
-Si une recherche contient plus de 10 items, affichier un bouton "Afficher plus" après votre liste d'items. Au click de bouton afficher la prochaine liste d'élements avec le composant que vous créer pendant l'objectif 1.
+Si une recherche contient plus de 10 items, afficher un bouton "Afficher plus" après votre liste d'items. Au click de bouton afficher la prochaine liste d'éléments avec le composant que vous avez créé pendant l'objectif 1.
