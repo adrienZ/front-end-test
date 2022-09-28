@@ -7,7 +7,7 @@ Bienvenue sur le test technique front-end developer de Leetchi :)
 Votre mission sera composée en 3 objectifs
 
 
-### Objectif #1 (CSS)
+### Objectif #1 (CSS) 5-10 min
 
 Remplacer le contenu du JSON sur la page par un composant de votre création.
 
@@ -21,14 +21,14 @@ le composant devra afficher les données suivantes :
 
 exemple de design attendu: ![](https://raw.githubusercontent.com/Leetchi-Front-End/front-end-test/master/wiki/card-example.png)
 
-### Objectif #2 (API CALL)
+### Objectif #2 (API CALL) 30 min
 
 à l'aide de l'api [swapi.dev](https://swapi.dev/), utiliser l'input `#search` afin de créer un champ de recherche affichant une liste de personnages, ou un message "Aucun résultat trouvé pour "XXX" (XXX étant la valeur de la recherche). L'utilisateur doit être capable d'utiliser la touche **enter** déclencher une recherche.
 
 La liste de résultats doit s'afficher, chaque item doit être en rendu avec le composant que vous avez créé pendant l'objectif 1
 
 
-### Obectif 3 (JS/TS - PAGINATION)
+### Obectif 3 (JS/TS - PAGINATION) 20 min
 
 Certaines recherches ont un grand nombre de résultats qui nécessite d'implémenter une pagination.
 exemple de query: `"a"`
