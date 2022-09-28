@@ -19,7 +19,7 @@ le composant devra afficher les données suivantes :
 - l'image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/2560px-Star_Wars_Logo.svg.png au **format carré**.
 - un lien redirigant vers la proriété `url`
 
-exemple de design attendu: ![](wiki/card-example.png)
+exemple de design attendu: ![](https://raw.githubusercontent.com/Leetchi-Front-End/front-end-test/master/wiki/card-example.png)
 
 ### Objectif #2 (API CALL)
 
